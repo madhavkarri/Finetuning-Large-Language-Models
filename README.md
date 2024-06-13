@@ -1,4 +1,6 @@
 # Finetuning-Large-Language-Models
+
+Learning Outcomes:
 - Fundamentals of finetuning a large language model (LLM).
 - Understand how finetuning differs from prompt engineering, and when to use both.
 - Practical experience with real data sets, and how to use techniques.
