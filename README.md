@@ -1,4 +1,4 @@
-# Finetuning-Large-Language-Models
+# Finetuning Large Language Models
 
 Learning Outcomes:
 - Fundamentals of finetuning a large language model (LLM).
